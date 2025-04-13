@@ -6,9 +6,9 @@ url = "http://localhost:7071/api/analyze_crop"
 
 # Prepare the payload
 payload = {
-    "container": "imagedata",               # <-- your Blob container name
-    "image_blob": "stress_6_2024-09-20.png",      # <-- your image file in that container
-    # "send_signal": True               # <-- uncomment to test IoT signal send
+    "container": "imagedata",               
+    "image_blob": "stress_6_2024-09-20.png",      
+    "send_signal": True              
 }
 
 headers = {
