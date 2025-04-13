@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+
+# Model weights or large blobs
+temp_models/
+*.pt
+*.pth
+
+# Azure Functions local config
+local.settings.json
+
+# VSCode or IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
