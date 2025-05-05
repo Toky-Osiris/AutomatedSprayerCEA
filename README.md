@@ -1,2 +1,2 @@
 # AutomatedSprayerCEA
-Maste's thesis wsu
+Thesis WSU
